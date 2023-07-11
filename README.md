@@ -3,7 +3,7 @@
 ## Project Overview
 A real estate company would like to idntify trends in home sales in King County, WA. There are many considerations when choosing a property to invest in. As thus 
 
-![house_sale_gif](https://giphy.com/gifs/Explainly-art-animation-office-e8ik35i8LaO3BqRwY6)
+![house_sale_gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl0NWE1YTBsMWtva3lrc3o4eWUwNHU3ZWtjemJ2a2c1aWd4dmJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8ik35i8LaO3BqRwY6/giphy.gif)
 
 ## Business Understanding
 
